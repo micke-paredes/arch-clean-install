@@ -1,7 +1,7 @@
 sudo pacman -S lsd picom feh xdotool net-tools \
         xclip maim polybar git bat zsh-autosuggestions zsh-syntax-highlighting \ 
         nautilus  neofetch rofi ranger cmus spotify-launcher playerctl imagemagick \
-        kitty vscode locate nerd-fonts
+        kitty vscode locate nerd-fonts thunderbird dunst
 
 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/uninstall.sh)"
